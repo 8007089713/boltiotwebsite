@@ -1,0 +1,101 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.Body{
+	margin-top: 0;
+	padding: 0;
+	height: 100%;
+}
+
+.footer{
+	background-color: black;
+	color: white;
+	height:80px ;
+	width: 100%;
+	font-size: 20px;
+	text-align: left;
+	position: relative;
+	margin-bottom: -100px;
+	clear: both;
+	position: ;
+
+
+}
+
+.topnav{
+	background-color: #333;
+	overflow: hidden;
+}
+.topnav a{
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding:14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+	display: inline-block;
+	
+}
+.input{
+	
+}
+.site-content{
+	position: absolute;
+	top: 78px;
+	width: 100%;
+}
+.image-content{
+	background-image: url("unnamed.png");
+	height: 500px;
+	width: 100%;
+	text-align: center;
+
+}
+.quote{
+	color: Black;
+	font-family: Helvica Neue;
+	position: relative;
+	top: 10%;
+}
+.quote a{
+	text-align: centre;
+	font-size: 20px;
+	
+}
+a:hover{
+	background-color: green;
+}
+.footer{
+	position: fixed;
+	clear: both;
+	height: 100px;
+	margin-top: -100px;
+}
+.footer{
+	position: absolute;
+	bottom: 0;
+}
+#footer{
+	position: fixed;
+	padding: 10px 10px 0px 10px;
+	bottom: 0;
+	width: 100%;
+	height: 40px;
+	background-color:#6d726f;
+;
+	color: black;
+
+}
+
+
+.logo{
+	height: 50px;
+	width: 50%;
+	float: right;
+
+
+}
+    
+  
